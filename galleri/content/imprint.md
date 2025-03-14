@@ -1,5 +1,5 @@
 ---
-title: Imprint
+title: © 2025 Olof Astrup Hällqvist
 rss_ignore: true
 layout: page
 menu:
