@@ -1,5 +1,5 @@
 baseURL = 'https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Olof Astrup Hällqvist'
 theme = "hugo-theme-gallery"
 relativeURLs = true

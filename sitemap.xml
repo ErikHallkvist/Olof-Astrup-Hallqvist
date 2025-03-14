@@ -2,9 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/animals/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/fashion-beauty/</loc>
+  </url><url>
+    <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/nature/</loc>
+  </url><url>
+    <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/categories/animals/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/categories/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/animals/cats/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/categories/nature/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/animals/dogs/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/about/</loc>
+  </url><url>
+    <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/categories/beauty/</loc>
+  </url><url>
+    <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/categories/fashion/</loc>
+  </url><url>
+    <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/imprint/</loc>
   </url><url>
     <loc>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/tags/</loc>
   </url>
