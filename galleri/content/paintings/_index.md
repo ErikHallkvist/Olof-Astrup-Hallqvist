@@ -2,6 +2,7 @@
 description: Paintings
 keywords: [Animals, Photos, Cats, Dogs]
 title: Paintings
+categories: ["paintings"]
 weight: 1
 menus: "main"
 params:

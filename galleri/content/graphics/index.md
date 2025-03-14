@@ -2,8 +2,8 @@
 description: graphics
 menus: "main"
 title: Graphic
+categories: ["graphic"]
 weight: 2
-categories: ["beauty", "fashion"]
 params:
   theme: light
 resources:

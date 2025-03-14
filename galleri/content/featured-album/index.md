@@ -1,11 +1,10 @@
 ---
-date: 2023-01-12
+date: 2025-03-14
 title: Featured Album
 params:
   featured: true
-  private: true # do not show in list, only as feature
   theme: light
-description: This is a featured album. It is private, so it is only shown on the homepage.
+description: Featured paintings
 resources:
   - src: "den nya lampan.jpg"
     params:
