@@ -1,4 +1,4 @@
-baseURL = 'https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/'
+baseURL = 'https://erikhallkvist.github.io/'
 languageCode = 'en-us'
 title = 'Olof Astrup Hällqvist'
 theme = "hugo-theme-gallery"

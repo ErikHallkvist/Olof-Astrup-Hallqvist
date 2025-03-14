@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nature on Olof Astrup Hällqvist</title>
-    <link>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/categories/nature/</link>
+    <link>https://erikhallkvist.github.io/categories/nature/</link>
     <description>Recent content in Nature on Olof Astrup Hällqvist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/categories/nature/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://erikhallkvist.github.io/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nature</title>
-      <link>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/nature/</link>
+      <link>https://erikhallkvist.github.io/nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
+      <guid>https://erikhallkvist.github.io/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
     <item>
       <title>Cats</title>
-      <link>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/animals/cats/</link>
+      <link>https://erikhallkvist.github.io/animals/cats/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/animals/cats/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://erikhallkvist.github.io/animals/cats/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Dogs</title>
-      <link>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/animals/dogs/</link>
+      <link>https://erikhallkvist.github.io/animals/dogs/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://erikhallkvist.github.io/Olof-Astrup-Hallqvist/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://erikhallkvist.github.io/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
