@@ -2,8 +2,8 @@
 description: Grafik
 menus: "main"
 title: Grafik
-categories: ["grafik"]
-weight: 3
+categories: ["grafik", "målningar"]
+weight: 2
 params:
   theme: light
   sort_order: desc

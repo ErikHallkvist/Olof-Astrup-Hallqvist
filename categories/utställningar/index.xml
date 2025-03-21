@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utställningar on Gallery</title>
+    <link>https://erikhallkvist.github.io/categories/utst%C3%A4llningar/</link>
+    <description>Recent content in Utställningar on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>olof-h@telia.com (Olof Astrup Hällqvist)</managingEditor>
+    <webMaster>olof-h@telia.com (Olof Astrup Hällqvist)</webMaster>
+    <copyright>© Olof Astrup Hällqvist</copyright><atom:link href="https://erikhallkvist.github.io/categories/utst%C3%A4llningar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ljusstråk</title>
+      <link>https://erikhallkvist.github.io/ljusstrak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olof-h@telia.com (Olof Astrup Hällqvist)</author>
+      <guid>https://erikhallkvist.github.io/ljusstrak/</guid><media:content url="https://erikhallkvist.github.io/ljusstrak/Stigens%20minne_hu_b426c78a9c133214.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://erikhallkvist.github.io/ljusstrak/Stigens%20minne_hu_b426c78a9c133214.jpg&quot; /&gt;
+          &lt;p&gt;Ljusstråk&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Liljevalchs</title>
+      <link>https://erikhallkvist.github.io/liljevalchs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olof-h@telia.com (Olof Astrup Hällqvist)</author>
+      <guid>https://erikhallkvist.github.io/liljevalchs/</guid><media:content url="https://erikhallkvist.github.io/liljevalchs/Natt%20i%20folkhemmet_hu_9ebd1d7676e3a015.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://erikhallkvist.github.io/liljevalchs/Natt%20i%20folkhemmet_hu_9ebd1d7676e3a015.jpg&quot; /&gt;
+          &lt;p&gt;liljevalchs&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
