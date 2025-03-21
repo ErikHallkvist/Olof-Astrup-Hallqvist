@@ -1,0 +1,12 @@
+GIT
+i mappen Olof-Astrup-Hallqvist ligger hela repot, men bara "galleri" mappen är privata filerna som generar public
+sedan läggs public mappens filler i Olof-Astrup-Hallqvist (bara för att kunna commita allt i root mappen).
+
+hugo (bygger alla filer till public mappen)
+git add --all (i root Olof-Astrup-Hallqvist)
+git commit -m "fix"
+git push
+
+
+Index.html
+*Lägg till /Olof-Astrup-Hallqvist/ för feature bildlänken, annars visas inte stora feature bilden (relativeurl som inte riktigt lirar)
