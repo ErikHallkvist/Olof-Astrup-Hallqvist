@@ -1,13 +1,14 @@
 ---
-description: Paintings
-keywords: [Animals, Photos, Cats, Dogs]
+description: Målningar
+menus: "main"
 title: Paintings
 categories: ["paintings"]
-weight: 1
-menus: "main"
+weight: 2
 params:
+  featured_image: "den nya lampan.jpg"
   theme: light
-# list pages require at least one image to be displayed.
+  sort_order: desc
+  sort_by: Name # Exif.Date
 resources:
   - src: "den nya lampan.jpg"
     params:

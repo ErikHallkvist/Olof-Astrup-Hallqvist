@@ -4,9 +4,10 @@ title: Featured Album
 params:
   featured: true
   theme: light
+  private: true # do not show in list, only as feature
 description: Featured paintings
 resources:
-  - src: "den nya lampan.jpg"
+  - src: "featured_den nya lampan.jpg"
     params:
       cover: true
 ---

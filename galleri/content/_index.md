@@ -1,7 +1,7 @@
 ---
 description: Portfolio
 #lastmod: 2025-03-14
-title: Olof Astrup Hällqvist
+title: Olof Astrup HällqvistTEST
 params:
   theme: light
 resources:
@@ -12,9 +12,6 @@ menus:
   main:
     name: Home
     weight: -1
-  test:
-    name: test
-    weight: 0
 # sub-galleries on list pages are sorted by date and weight (descending)
 #cascade:
 #  build:

@@ -1,11 +1,14 @@
 ---
-description: graphics
+description: Bilder som är lampade som grafik
 menus: "main"
 title: Graphic
 categories: ["graphic"]
-weight: 2
+weight: 3
 params:
+  featured_image: "den nya lampan.jpg"
   theme: light
+  sort_order: desc
+  sort_by: Name # Exif.Date
 resources:
   - src: "den nya lampan.jpg"
     params:

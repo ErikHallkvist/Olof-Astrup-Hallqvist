@@ -1,29 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Olof Astrup Hällqvist</title>
+    <title>Olof Astrup HällqvistTEST on Gallery</title>
     <link>https://erikhallkvist.github.io/</link>
-    <description>Recent content on Olof Astrup Hällqvist</description>
+    <description>Recent content in Olof Astrup HällqvistTEST on Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://erikhallkvist.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <managingEditor>user@example.com (Your Name)</managingEditor>
+    <webMaster>user@example.com (Your Name)</webMaster>
+    <copyright>© Olof Astrup Hällqvist</copyright>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://erikhallkvist.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graphic</title>
       <link>https://erikhallkvist.github.io/graphics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://erikhallkvist.github.io/graphics/</guid><media:content url="https://erikhallkvist.github.io/graphics/den%20nya%20lampan_hu_a2d14c2aafd06c5f.jpg" type="image/jpeg"/>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://erikhallkvist.github.io/graphics/</guid><media:content url="https://erikhallkvist.github.io/graphics/den%20nya%20lampan_hu_f13fe6fc7103ffa.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://erikhallkvist.github.io/graphics/den%20nya%20lampan_hu_a2d14c2aafd06c5f.jpg&quot; /&gt;
-          &lt;p&gt;graphics&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Featured Album</title>
-      <link>https://erikhallkvist.github.io/featured-album/</link>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://erikhallkvist.github.io/featured-album/</guid><media:content url="https://erikhallkvist.github.io/featured-album/den%20nya%20lampan_hu_a2d14c2aafd06c5f.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://erikhallkvist.github.io/featured-album/den%20nya%20lampan_hu_a2d14c2aafd06c5f.jpg&quot; /&gt;
-          &lt;p&gt;Featured paintings&lt;/p&gt;
+          &lt;img src=&quot;https://erikhallkvist.github.io/graphics/den%20nya%20lampan_hu_f13fe6fc7103ffa.jpg&quot; /&gt;
+          &lt;p&gt;Bilder som är lampade som grafik&lt;/p&gt;
         </description></item>
   </channel>
 </rss>
