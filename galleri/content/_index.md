@@ -1,7 +1,7 @@
 ---
 description: Portfolio
 #lastmod: 2025-03-14
-title: Olof Astrup HällqvistTEST
+title: Olof Astrup Hällqvist
 params:
   theme: light
 resources:

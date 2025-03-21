@@ -7,5 +7,5 @@ params:
   theme: light
 description: Featured paintings
 resources:
-  - src: featuredBild.jpg
+
 ---
