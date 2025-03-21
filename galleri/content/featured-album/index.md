@@ -8,6 +8,4 @@ params:
 description: Featured paintings
 resources:
   - src: featuredBild.jpg
-    params:
-      cover: true
 ---

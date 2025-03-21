@@ -5,9 +5,10 @@ title: Olof Astrup HällqvistTEST
 params:
   theme: light
 resources:
-  - src: "den nya lampan.jpg"
-    params:
-      cover: true # cover of the home page is used for OpenGraph cards, etc.
+
+cascade:
+   build:
+     publishResources: false
 menus:
   main:
     name: Home
