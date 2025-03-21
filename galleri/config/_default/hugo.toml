@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
-timeZone = "Europe/Berlin"
+timeZone = "Europe/Stockholm"
 timeout = "120s"
 title = "Gallery"
 
@@ -12,14 +12,13 @@ title = "Gallery"
   description = "Olof Astrup Hällqvist"
   title = "Olof Astrup Hällqvist"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    email = "olof-h@telia.com"
+    name = "Olof Astrup Hällqvist"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    #facebook = "https://www.facebook.com/"
+    #instagram = "https://www.instagram.com/"
+    #youtube = "https://www.youtube.com/"
+    email = "mailto:olof-h@telia.com"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
@@ -44,9 +43,9 @@ title = "Gallery"
 
 [menu]
   [[menu.footer]]
-    name = "GitHub"
-    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    weight = 3
+    #name = "GitHub"
+    #url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    #weight = 3
 
 [services]
   [services.rss]

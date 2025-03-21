@@ -1,5 +1,5 @@
 ---
-title: © 2025 Olof Astrup Hällqvist
+title: 
 rss_ignore: true
 layout: page
 menu:
